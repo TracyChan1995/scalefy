@@ -1,0 +1,10 @@
+Package: scalefy
+Type: Package
+Title: 母婴队列数据录入标准化
+Version: 0.1.0
+Author: Tracy Chan
+Maintainer: The package maintainer <www.chenhengying@mail.com>
+Description: 对于新入组孕妇混杂数据的录入标准化 
+License: Huazhong Science and Technology Union Shezhen University
+Encoding: UTF-8
+LazyData: true
